@@ -17,7 +17,7 @@ title: Papers
 
 <ul>
   <li class="paper">
-    <b>User-item fairness tradeoffs in recommendations</b> [<a href="https://arxiv.org/abs/2412.04466" target="_blank">arXiv</a>]<br>
+    <b>User-item fairness tradeoffs in recommendations</b> [<a href="https://arxiv.org/abs/2412.04466" target="_blank">arXiv</a> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/cf836efd32fd53493e02d26670f04d46-Abstract-Conference.html" target="_blank">official link</a>]<br>
     Sophie Greenwood, Sudalakshmee Chiniah, and Nikhil Garg<br>
     Accepted at NeurIPS 2024
   </li>
