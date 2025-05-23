@@ -13,11 +13,11 @@ title: Papers
   </li>
 </ul> -->
 
-<!-- ## Conference papers -->
+## Conference papers
 
 <ul>
   <li class="paper">
-    <b>Designing algorithmic delegates: The role of indistinguishability in human-AI handoff</b> [<a href="/pdfs/delegation.pdf" target="_blank">preprint</a>]<br>
+    <b>Designing algorithmic delegates: The role of indistinguishability in human-AI handoff</b> [<a href="/pdfs/delegation.pdf" target="_blank">link</a>]<br>
       Sophie Greenwood, Karen Levy, Solon Barocas, Hoda Heidari, and Jon Kleinberg<br>
       Accepted at EC 2025
   </li>
