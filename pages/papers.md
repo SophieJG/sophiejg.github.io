@@ -17,7 +17,7 @@ title: Papers
 
 <ul>
   <li class="paper">
-    <b>Designing algorithmic delegates: The role of indistinguishability in human-AI handoff</b> [<a href="/pdfs/delegation.pdf" target="_blank">link</a>]<br>
+    <b>Designing algorithmic delegates: The role of indistinguishability in human-AI handoff</b> [<a href="https://arxiv.org/abs/2506.03102" target="_blank">arXiv</a>]<br>
       Sophie Greenwood, Karen Levy, Solon Barocas, Hoda Heidari, and Jon Kleinberg<br>
       Accepted at EC 2025
   </li>
