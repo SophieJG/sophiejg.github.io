@@ -3,15 +3,14 @@ layout: page
 title: Papers
 ---
 
-<!-- ## Workshop papers
+## Working papers
 
 <ul>
   <li class="paper">
-    <b>Designing algorithmic delegates</b> [<a href="https://openreview.net/pdf?id=KVMlER9Mpv" target="_blank">official link</a>]<br>
-    Sophie Greenwood, Karen Levy, Solon Barocas, Jon Kleinberg, and Hoda Heidari<br>
-    Presented at the NeurIPS 2024 Workshop on Behavioral Machine Learning
+    <b>Paper Skygest: Personalized academic recommendations on Bluesky</b> [<a href="/pdfs/PaperSkygest.pdf" target="_blank">official link</a>]<br>
+    Sophie Greenwood and Nikhil Garg
   </li>
-</ul> -->
+</ul>
 
 ## Conference papers
 
