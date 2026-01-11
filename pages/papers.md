@@ -7,7 +7,7 @@ title: Papers
 
 <ul>
   <li class="paper">
-    <b>Paper Skygest: Personalized academic recommendations on Bluesky</b> [<a href="/pdfs/PaperSkygest.pdf" target="_blank">preprint</a>]<br>
+    <b>Paper Skygest: Personalized academic recommendations on Bluesky</b> [<a href="https://arxiv.org/abs/2601.04253" target="_blank">arXiv</a>]<br>
     Sophie Greenwood and Nikhil Garg
   </li>
 </ul>
